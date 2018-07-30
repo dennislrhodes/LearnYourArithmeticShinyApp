@@ -1,0 +1,13 @@
+name: LearnYourArithmeticShinyApp
+title: LearnYourArithmeticShinyApp
+username:
+account: dennisrhodes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 391630
+bundleId: 1506629
+url: https://dennisrhodes.shinyapps.io/LearnYourArithmeticShinyApp/
+when: 1532921330.92223
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|README.md
